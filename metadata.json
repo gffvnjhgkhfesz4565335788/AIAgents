@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Live Assistant Hub",
+  "description": "Multi-agent app using Gemini Live for real-time video and audio interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
